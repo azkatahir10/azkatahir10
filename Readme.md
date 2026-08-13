@@ -1,4 +1,4 @@
-# Hi there, I'm Azka Tahir 👋
+# Hello there, I'm Azka Tahir 👋
 
 AI/ML Engineer & Full-Stack Developer specializing in building scalable Generative AI systems, RAG architectures, and multi-agent workflows.
 
